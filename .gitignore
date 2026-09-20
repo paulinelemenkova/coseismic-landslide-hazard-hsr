@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+._*
+
+# GMT scratch
+gmt.history
+gmt.conf
+*.nc
+*.ps
+
+# Generated figures (uncomment to keep them out of version control)
+# *.png
+# *.pdf
